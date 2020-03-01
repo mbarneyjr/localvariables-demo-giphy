@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="localvariables-demo-giphy",
-    version="0.0.3",
+    version="0.0.4",
     author="Michael Barney",
     author_email="mbarneyjr5309@gmail.com",
     description="A demo for localvariables",
